@@ -1,0 +1,21 @@
+{
+  "name": "app_calendar_events",
+  "version": "1.0.0",
+  "description": "app for disaply todays events in terminal",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calendar",
+    "google",
+    "api",
+    "terminal"
+  ],
+  "author": "Danylo Pavenko",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
